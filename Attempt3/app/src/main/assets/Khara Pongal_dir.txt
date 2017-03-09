@@ -1,0 +1,24 @@
+Soak half a cup of rice in water. 
+Take half a cup of split moong dal and dry roast it on a very low flame until you can smell the roasted dal. It would take approximately 3 minutes. Don’t roast for long. 
+Cook the dal and rice together in a pressure cooker with 4 cups of water for a good 15 minutes or 10-12 whistles.
+    Coarsely grind pepper and cumin with the help of a mortar and pestle. Set aside.
+    Heat some ghee and oil in a pan. I used 2 tablespoons of ghee and a tablespoon of oil. 
+Add in the broken cashew nut, ginger, curry leaves and green chillies. Roast on a low flame. 
+Once the nuts are roasted add in the pepper-cumin mixture. Roast briefly for 20 seconds.
+    Add in the cooked rice-dal mixture and salt. Mix everything to combine. Saute briefly for a minute or two.
+    Remove off heat.
+
+create table `KharaPongal_dir` (process VARCHAR(500), time INTEGER(10));
+
+insert into `KharaPongal_dir` (process, time) values ('Soak half a cup of rice in water.', 0);
+insert into `KharaPongal_dir` (process, time) values ('Take half a cup of split moong dal and dry roast it on a very low flame until you can smell the roasted dal. It would take approximately 3 minutes. Don’t roast for long.', 180000);
+insert into `KharaPongal_dir` (process, time) values ('Cook the dal and rice together in a pressure cooker with 4 cups of water for a good 15 minutes or 10-12 whistles.', 900000);
+insert into `KharaPongal_dir` (process, time) values ('Coarsely grind pepper and cumin with the help of a mortar and pestle. Set aside.', 0);
+insert into `KharaPongal_dir` (process, time) values ('Heat some ghee and oil in a pan. Preferably use 2 tablespoons of ghee and a tablespoon of oil.', 0);
+insert into `KharaPongal_dir` (process, time) values ('Add in the broken cashew nut, ginger, curry leaves and green chillies. Roast on a low flame.', 300000);
+insert into `KharaPongal_dir` (process, time) values ('Once the nuts are roasted add in the pepper-cumin mixture. Roast briefly for 20 seconds.', 20000);
+insert into `KharaPongal_dir` (process, time) values ('Add in the cooked rice-dal mixture and salt. Mix everything to combine. Saute briefly for a minute or two.', 120000);
+insert into `KharaPongal_dir` (process, time) values ('Remove off heat.', 0);
+
+
+

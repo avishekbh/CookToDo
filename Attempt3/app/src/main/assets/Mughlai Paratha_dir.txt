@@ -1,0 +1,27 @@
+Mix the whole-wheat flour, refined flour and the two tablespoons of ghee together.
+Knead into a soft, sticky dough and cover and leave aside for 2-3 hours.
+Divide the dough into 4 rounds, cover and leave to rest for about 15 minutes.
+Heat a griddle over the stove. While it is getting hot, roll out one round.
+The dough is sticky and soft, so you may need to dust it with flour frequently. Better still, pat it thin with your palms if you can.
+Keeping the heat on high, place the roti over the griddle, break an egg on to the center of it, sprinkle with 2 tsp of onion, salt, green chillies and 1 tbsp of coriander leaves.
+Lower heat to medium. To seal, fold over four ways towards the center, so that the ends overlap, thus forming a square.
+Make a trail of ghee around it to fry the underside.
+When the underside is fried, smear the top with a generous helping of ghee and turn over to fry to a golden brown.
+Serve hot with yogurt.
+
+
+create table `MughlaiParatha_dir` (process VARCHAR(500), time INTEGER(10));
+
+insert into `MughlaiParatha_dir` (process, time) values ('Mix the whole-wheat flour, refined flour and the two tablespoons of ghee together.', 0);
+insert into `MughlaiParatha_dir` (process, time) values ('Knead into a soft, sticky dough and cover and leave aside for 2-3 hours.', 7200000);
+insert into `MughlaiParatha_dir` (process, time) values ('Divide the dough into 4 rounds, cover and leave to rest for about 15 minutes.', 900);
+insert into `MughlaiParatha_dir` (process, time) values ('Heat a griddle over the stove. While it is getting hot, roll out one round.', 120000);
+insert into `MughlaiParatha_dir` (process, time) values ('The dough is sticky and soft, so you may need to dust it with flour frequently. Better still, pat it thin with your palms if you can.', 0);
+insert into `MughlaiParatha_dir` (process, time) values ('Keeping the heat on high, place the roti over the griddle, break an egg on to the center of it, sprinkle with 2 tsp of onion, salt, green chillies and 1 tbsp of coriander leaves.', 0);
+insert into `MughlaiParatha_dir` (process, time) values ('Lower heat to medium. To seal, fold over four ways towards the center, so that the ends overlap, thus forming a square.', 0);
+insert into `MughlaiParatha_dir` (process, time) values ('Make a trail of ghee around it to fry the underside.', 120000);
+insert into `MughlaiParatha_dir` (process, time) values ('When the underside is fried, smear the top with a generous helping of ghee and turn over to fry to a golden brown.', 60000);
+insert into `MughlaiParatha_dir` (process, time) values ('Serve hot with yogurt.', 0);
+
+
+

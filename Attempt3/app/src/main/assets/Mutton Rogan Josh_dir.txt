@@ -1,0 +1,26 @@
+
+
+
+
+
+
+
+
+
+
+
+create table `MuttonRoganJosh_dir` (process VARCHAR(500), time INTEGER(10));
+
+insert into `MuttonRoganJosh_dir` (process, time) values ('Heat oil, add whole garam masala, add the sliced onions when the garam masala splutters.', 0);
+insert into `MuttonRoganJosh_dir` (process, time) values ('Saute till golden brown.', 300000);
+insert into `MuttonRoganJosh_dir` (process, time) values ('Add mutton and saute on high heat for 5 mins.', 300000);
+insert into `MuttonRoganJosh_dir` (process, time) values ('Add ginger-garlic paste, reduce heat and add the coriander, chilli, cumin powder.', 0);
+insert into `MuttonRoganJosh_dir` (process, time) values ('Saute on medium heat till the water dries up in the meat.', 120000);
+insert into `MuttonRoganJosh_dir` (process, time) values ('Add the cashewnut paste, tomato puree and saute till oil separates.', 0);
+insert into `MuttonRoganJosh_dir` (process, time) values ('Add 3 cups of water and cook till mutton is done.', 3600000);
+insert into `MuttonRoganJosh_dir` (process, time) values ('Whisk the yogurt, add to the mutton.', 0);
+insert into `MuttonRoganJosh_dir` (process, time) values ('Add garam masala and cinnamon powder.', 0);
+insert into `MuttonRoganJosh_dir` (process, time) values ('When it starts boiling, remove from heat immediately.', 0);
+insert into `MuttonRoganJosh_dir` (process, time) values ('Serve garnished with chopped coriander.', 0);
+
+

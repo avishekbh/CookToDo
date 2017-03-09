@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "flash-precept-157618",
+  "private_key_id": "9330dfae9cb08d0b77fb6495e90aa8b2a1e40e97",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCgRfP9GGadKAMQ\n9Z3tyCcSS6DOpeJyWFinQEI8ndJ5J/iaxKwDsYYJdyBIowl2mfj/BFl+coU4CPct\nBSH1Eny1eICW3EI2wBfF0tWwa7+OAZwRqB0be2bDCh9VZwBfdwxzgxBXy3uA7++a\nqRoRPGjQ5cCQqAB8EdQVfsMvMSu/TbhPWW0NaZjN26xBeJbBImSMR9Cnk7ahLvO9\nLb0Mw9gFHuIcQ4b1w7DJMswX9vAZlUiVlkauUQCpZpsV2V/pOrNQOJt3AaZaS570\n5siETky2lEN91oyfXKjik5r+wEFrmqLKCug4006mrbzmHh+zomROq2UkQd+KTt7/\npRhm80ErAgMBAAECggEAb3hXuwcWj2U9xLTfk3qq2gmpnTA4r8iMWD7UEq69rTBE\nsvfon2T/0WN+G6bxNQDf8hYHXG+wAgoSR8iTFo02GUznOoWUs9mkbx01LE+0WcL6\n1jjzjaKlFS/cHRzXYI4/JbPZUQagLkwyfIHyNFysleXFqZZ/R8tqk0yn2hG72H/O\nsMfLD++g/jJALJpRck+PyWv08vUyxBXBWxAfO0fjFtnP3m5HJA7TlYcTBzcG7XSb\nOe6uRMbgIvJE2EniUVIIoCdmIf3UzV7MbY5aSk9ldDVInHFYl82K6AFW5c7YNprO\ng3cbkJMEVon76SQVJS3N5NGx2HiAx/jvUS9ZLvv28QKBgQDRMyesNnkncvNTTj41\n523bGFg03ZhoSOgbSCPPYy5MraVp7/gxh5W0dTg8ZzuHJSXpP86AYzWPq0tsHN4W\n7XfJEzkreaPpjyCR6yZIXdykuDs58qeIHZgaQDOKbuDCRHm7aYMotwdUaGvynJma\nljQfhAaXkgmlXO4ZpYcQuQEiowKBgQDEIMe73XHZn8TEATF1kNDcGRHwepIm9hJN\nR1/99upVKAiU9KEqYnVcTeXscXO6Nbd/6xNL/obwdQ2ZQPT66LhLc3iMICSY/mRJ\n3ffJ/wTOfBsERA1xVaaBbVakFiUpfrc+BmUq+me5x+sMYUZj2QMojfd9Ol3IVKY4\nrCEmj+LX2QKBgFMO4F17cza6aOlWU1TLgc5PKBY1NOGSsLTEO5OHaUaAWwBoij3/\n+uwe7ijtQ7EwipDFCJPoz8cu108hVvv7ZGes/jHIpc+BSAknN5fbzFKJ4tnrAaEF\nPvKNMulvhEUdMse56J0trfdRTiqRCltZ72/j10oubS3+a3o7QhjdmxnJAoGAUkCh\nI3OqlKdBoSYS9QhH35aQBHeTJc3bPReq9VqBSjdg6f9yO9FRAOYWgEPQUg7HJ1mS\nHTPgqaWdj2FDnJrO9620p6evUY6WxrfVfJx8CpDXz8EulhJiozMUu/ohmbZv6Q5L\njWu45pwmQmnlWGihv3dSjO1WeXauw2PE/2QmsXkCgYEAhBJWf47w7CvYR52DOifM\npiCLHaIsCaluoBn1mgXUze3nAhSYPo7t9x7QiUCdaPVXDGDCoe7MWQ2UTe4w9Ybd\noch8dsgh3pXZIsYkvMlGBsfsAzfiuFD0sAJwwGSJSAScZQwrU/33shjuSpRLowvL\nkcVgGTr+v77vIXoNdgJPk7g=\n-----END PRIVATE KEY-----\n",
+  "client_email": "vp-lab@flash-precept-157618.iam.gserviceaccount.com",
+  "client_id": "107532822322272710868",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vp-lab%40flash-precept-157618.iam.gserviceaccount.com"
+}

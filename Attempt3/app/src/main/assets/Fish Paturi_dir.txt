@@ -1,0 +1,12 @@
+create table `FishPaturi_dir` (process VARCHAR(500), time INTEGER(10));
+insert into `FishPaturi_dir` (process, time) values ("Wash the fish pieces properly and keep them separately in a plate.", 0);
+insert into `FishPaturi_dir` (process, time) values ("In a bowl mix oil, turmeric powder, mustard powder, chili paste, grated coconut salt and sugar.", 0);
+insert into `FishPaturi_dir` (process, time) values ("Now add the fish pieces to the bowl and mix them all.", 0);
+insert into `FishPaturi_dir` (process, time) values ("Carefully marinate each piece so that a good layer is created outside each fish and then refrigerate them for 1 hour.", 3600000);
+insert into `FishPaturi_dir` (process, time) values ("Wash the banana leaves properly and makes them dry.", 0);
+insert into `FishPaturi_dir` (process, time) values ("Oil one side of the banana leaf in which the fish pieces will be covered one by one.", 0);
+insert into `FishPaturi_dir` (process, time) values ("Put the fish piece on that and cover the leaf and bind/wrap the fish inside banana leaf with some thread/string.", 0);
+insert into `FishPaturi_dir` (process, time) values ("Now heat a pressure cooker in a low flame. ", 300000);
+insert into `FishPaturi_dir` (process, time) values ("Need to steam the banana fish wraps in that for 15 min.", 900000);
+insert into `FishPaturi_dir` (process, time) values ("Fish pieces will be cooked inside banana leaf in a spicy mustard mixture.", 600000);
+

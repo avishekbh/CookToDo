@@ -1,0 +1,19 @@
+
+create table `PaneerButterMasala` (ingr_name VARCHAR(300), qty DECIMAL(10,3), price DECIMAL(10,3), unit VARCHAR(100));
+
+insert into `PaneerButterMasala` (ingr_name, qty, price, unit) values ('Paneer', 0.4, 450 ,'kg');
+insert into `PaneerButterMasala` (ingr_name, qty, price, unit) values ('Oil', 250, 0.2, 'ml');
+insert into `PaneerButterMasala` (ingr_name, qty, price, unit) values ('Bay Leaves', 5, 1, 'pcs');
+insert into `PaneerButterMasala` (ingr_name, qty, price, unit) values ('Clove', 5, 1, 'pcs');
+insert into `PaneerButterMasala` (ingr_name, qty, price, unit) values ('Cinnamon Stick', 2, 5, 'stick');
+insert into `PaneerButterMasala` (ingr_name, qty, price, unit) values ('Dried Red Chilies', 2, 1, 'pcs');
+insert into `PaneerButterMasala` (ingr_name, qty, price, unit) values ('Coriander Seeds', 25, 0.6, 'gm');
+insert into `PaneerButterMasala` (ingr_name, qty, price, unit) values ('Onion', 0.25, 40, 'kg');
+insert into `PaneerButterMasala` (ingr_name, qty, price, unit) values ('Ginger Paste', 1, 10, 'pkt');
+insert into `PaneerButterMasala` (ingr_name, qty, price, unit) values ('Garlic Paste', 1, 10, 'pkt');
+insert into `PaneerButterMasala` (ingr_name, qty, price, unit) values ('Salt', 0.05, 20, 'kg');
+insert into `PaneerButterMasala` (ingr_name, qty, price, unit) values ('Coriander Powder', 10, 1, 'gm');
+insert into `PaneerButterMasala` (ingr_name, qty, price, unit) values ('Tomato', 0.25, 60, 'kg');
+insert into `PaneerButterMasala` (ingr_name, qty, price, unit) values ('Kasuri Methi', 25, 1, 'gm');
+insert into `PaneerButterMasala` (ingr_name, qty, price, unit) values ('Cream', 100, 0.5, 'gm');
+

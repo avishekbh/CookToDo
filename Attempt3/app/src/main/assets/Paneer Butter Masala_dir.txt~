@@ -1,0 +1,15 @@
+create table `MughlaiParatha_dir` (process VARCHAR(500), time INTEGER(10));
+
+insert into `MughlaiParatha_dir` (process, time) values ('Heat three tablespoons butter with one teaspoon oil in a kadai.', 120000)
+
+insert into `MughlaiParatha_dir` (process, time) values ('Add bay leaves, cloves, cinnamon, red chillies and half of the crushed coriander seeds. Sauté for half a minute.', 30000);
+ 
+insert into `MughlaiParatha_dir` (process, time) values ('Add onion and stir-fry for thirty seconds and add ginger paste and garlic paste. Cook for another thirty seconds.', 30000);
+
+insert into `MughlaiParatha_dir` (process, time) values (' Add coriander powder, red chilli powder and tomatoes. Cook on high heat till oil leaves the masala. Puree the mixture.', 0);
+
+insert into `MughlaiParatha_dir` (process, time) values ('Heat the remaining butter in a non-stick, cook the pureed mixture for two minutes.', 120000);
+
+insert into `MughlaiParatha_dir` (process, time) values ('Add paneer pieces and salt. Add half a cup of water. Cook covered on low heat for five minutes.', 600000);
+
+insert into `MughlaiParatha_dir` (process, time) values ('Sprinkle kasoori methi and mix in lightly. Remove from heat and mix in cream. Serve hot, garnished with remaining crushed coriander seeds.',0);

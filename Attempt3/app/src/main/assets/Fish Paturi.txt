@@ -1,0 +1,25 @@
+Bhetki Maach fillets (4-5) pieces
+4 tbsp Mustard Oil
+1 tbsp turmeric powder
+1 tbsp Green chili paste
+1/2 coconut grated
+2 tbsp mustard powder
+Salt as per taste
+Pinch of sugar
+Banana leaves
+
+
+create table `FishPaturi` (ingr_name VARCHAR(300), qty DECIMAL(10,3), price DECIMAL(10,3), unit VARCHAR(100));
+
+insert into `FishPaturi` (ingr_name, qty, price, unit) values ('Bhetki Maach fillets', 5, 50, 'pcs');
+insert into `FishPaturi` (ingr_name, qty, price, unit) values ('Mustard Oil', 250, 0.2, 'ml');
+insert into `FishPaturi` (ingr_name, qty, price, unit) values ('Turmeric Powder', 1, 20, 'tbsp');
+insert into `FishPaturi` (ingr_name, qty, price, unit) values ('Green Chili Paste', 1, 15, 'tbsp');
+insert into `FishPaturi` (ingr_name, qty, price, unit) values ('Grated Coconut', 0.5, 100, 'pcs');
+insert into `FishPaturi` (ingr_name, qty, price, unit) values ('Mustard Powder', 2, 10, 'tbsp');
+insert into `FishPaturi` (ingr_name, qty, price, unit) values ('Salt', 0.05, 20, 'kg');
+insert into `FishPaturi` (ingr_name, qty, price, unit) values ('Sugar', 0.05, 45, 'kg');
+insert into `FishPaturi` (ingr_name, qty, price, unit) values ('Banana Leaves', 2, 2, 'pcs');
+
+tick
+

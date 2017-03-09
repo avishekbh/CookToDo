@@ -1,0 +1,10 @@
+
+create table `VegCutlet_dir` (process VARCHAR(500), time INTEGER(10));
+
+insert into `VegCutlet_dir` (process, time) values ('Heat two tablespoons of oil in a pan. ', 120000);
+insert into `VegCutlet_dir` (process, time) values ('Add cumin seeds, ginger and onion and sauté for two minutes. Add green chillies, red chilli powder, turmeric powder and sauté for a minute.', 60000);
+insert into `VegCutlet_dir` (process, time) values ('Add French beans, beetroot, green peas and mix. Add salt and continue to sauté for two minutes.', 120000);
+insert into `VegCutlet_dir` (process, time) values ('Add crushed cashewnuts and refined flour and sauté for two minutes. Set aside.', 120000);
+insert into `VegCutlet_dir` (process, time) values ('Take mashed potatoes in a deep bowl. Add the vegetable mixture and mix well. Add coriander leaves and adjust salt. Add lemon juice and mix. Heat sufficient oil in another pan.', 0);
+insert into `VegCutlet_dir` (process, time) values ('Take a portion of the mixture, shape into a ball and roll in breadcrumbs. Press lightly and place the cutlet in the pan. Shallow-fry till both the sides are evenly golden.', 0);
+insert into `VegCutlet_dir` (process, time) values ('Similarly prepare more cutlets. Drain and place on an absorbent paper and serve hot', 0);

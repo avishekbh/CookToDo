@@ -1,0 +1,30 @@
+
+    0.5 cup Raw rice (sona masuri)
+    0.5 cup split moong dal
+    4 cups water
+    2 tablespoon Ghee
+    1 tablespoon Oil
+    2 Tablespoon broken cashewnut
+    1 teaspoon minced ginger
+    1 teaspoon pepper
+    2 teaspoon cumin seeds
+    2 green chillies, chopped
+    1 sprig curry leaves
+    1 teaspoon salt
+
+
+create table `KharaPongal` (ingr_name VARCHAR(300), qty decimal(10,3), price decimal(10,3), unit VARCHAR(100));
+
+insert into `KharaPongal` (ingr_name, qty, price, unit) values ('Raw Rice', 0.1, 200, 'kg');
+insert into `KharaPongal` (ingr_name, qty, price, unit) values ('Moong dal', 0.1, 150, 'kg');
+insert into `KharaPongal` (ingr_name, qty, price, unit) values ('Ghee', 50, 1, 'gm');
+insert into `KharaPongal` (ingr_name, qty, price, unit) values ('Oil', 250, .16, 'ml');
+insert into `KharaPongal` (ingr_name, qty, price, unit) values ('Cashewnuts', 50, 2, 'gm');
+insert into `KharaPongal` (ingr_name, qty, price, unit) values ('Minced ginger', 25, 0.4, 'gm');
+insert into `KharaPongal` (ingr_name, qty, price, unit) values ('Pepper', 5, 1, 'pcs');
+insert into `KharaPongal` (ingr_name, qty, price, unit) values ('Cumin seeds', 50, 1, 'gm');
+insert into `KharaPongal` (ingr_name, qty, price, unit) values ('Green Chilies', 25, 0.2, 'gm');
+insert into `KharaPongal` (ingr_name, qty, price, unit) values ('Sprig curry leaves', 25, 0.2, 'gm');
+insert into `KharaPongal` (ingr_name, qty, price, unit) values ('Salt', 0.05, 20, 'kg');
+
+

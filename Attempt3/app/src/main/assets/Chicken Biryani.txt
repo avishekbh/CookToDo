@@ -1,0 +1,61 @@
+Ingredients:
+
+2 cups Basmati Rice
+3/4 kg Chicken Pieces
+1 cup beaten Yogurt (curd)
+3 sliced onion
+1 medium Tomato chopped 1/2 cup Tomato Puree
+2 tsp Red Chilli Powder
+1 tsp Turmeric Powder
+1 tsp Roasted cumin powder
+2 tsp Garam Masala Powder
+1/2 tsp Green Cardamom Powder
+1 tsp Coriander Powder
+1/2 cup Warm Milk
+Saffron a pinch
+Salt to taste
+7 tbsp Ghee / Oil Grind to Paste: 1 tsp Ginger Paste
+1/2 tsp Garlic Paste
+1/4 cup Coriander Leaves
+1/4 cup Mint Leaves
+3 -4 Green Chillies
+For garnish 2 tbsp Green Coriander Leaves
+2 tblsp Mint Leaves (Pudina)
+
+create table `ChickenBiryani` (ingr_name VARCHAR(300), qty DECIMAL(10,3), price DECIMAL(10,3), unit VARCHAR(100));
+
+insert into `ChickenBiryani` (ingr_name, qty, price, unit) values ('Basmati Rice', 0.1, 200, 'kg');
+insert into `ChickenBiryani` (ingr_name, qty, price, unit) values ('Chicken Pieces', 0.25, 200, 'kg');
+insert into `ChickenBiryani` (ingr_name, qty, price, unit) values ('Yogurt (curd)', 100, 0.2, 'gm');
+insert into `ChickenBiryani` (ingr_name, qty, price, unit) values ('Onion', 0.25, 40, 'kg');
+insert into `ChickenBiryani` (ingr_name, qty, price, unit) values ('Tomato', 0.25, 60, 'kg');
+insert into `ChickenBiryani` (ingr_name, qty, price, unit) values ('Red Chilli Powder', 10, 1, 'gm');
+insert into `ChickenBiryani` (ingr_name, qty, price, unit) values ('Roasted Cumin Powder', 10, 4, 'gm');
+insert into `ChickenBiryani` (ingr_name, qty, price, unit) values ('Green Cardmom Powder', 10, 2, 'gm');
+insert into `ChickenBiryani` (ingr_name, qty, price, unit) values ('Turmeric Powder', 10, 2, 'gm');
+insert into `ChickenBiryani` (ingr_name, qty, price, unit) values ('Garam Masala Powder', 10, 3, 'gm');
+insert into `ChickenBiryani` (ingr_name, qty, price, unit) values ('Coriander Powder', 10, 1, 'gm');
+insert into `ChickenBiryani` (ingr_name, qty, price, unit) values ('Warm Milk', 0.25, 40, 'ltr');
+insert into `ChickenBiryani` (ingr_name, qty, price, unit) values ('Saffron', 1, 40, 'gm');
+insert into `ChickenBiryani` (ingr_name, qty, price, unit) values ('Salt', 50, 0.02, 'gm');
+insert into `ChickenBiryani` (ingr_name, qty, price, unit) values ('Ghee', 50, 1, 'gm');
+insert into `ChickenBiryani` (ingr_name, qty, price, unit) values ('Ginger Paste', 1, 10, 'pkt');
+insert into `ChickenBiryani` (ingr_name, qty, price, unit) values ('Coriander Leaves', 25, 0.5, 'gm');
+insert into `ChickenBiryani` (ingr_name, qty, price, unit) values ('Mint Leaves', 10, 0.5, 'gm');
+insert into `ChickenBiryani` (ingr_name, qty, price, unit) values ('Green Chilies', 25, 0.2, 'gm');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

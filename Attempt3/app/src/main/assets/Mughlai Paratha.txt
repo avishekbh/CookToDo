@@ -1,0 +1,24 @@
+3 cups whole-wheat flour
+1 cup all purpose flour
+2 Tbsp ghee
+2 cups water to knead the dough
+Dry flour to help with rolling
+Ghee for frying the paranthas
+4 eggs
+Salt to taste
+1/2 cup finely chopped onions
+Chopped green chillies to taste
+4 Tbsp chopped coriander leaves
+
+create table `MughlaiParatha` (ingr_name VARCHAR(300), qty DECIMAL(5,3), price DECIMAL(5,3), unit VARCHAR(100));
+
+insert into `MughlaiParatha` (ingr_name, qty, price, unit) values ('Whole-wheat flour', 0.5, 40, 'kg');
+insert into `MughlaiParatha` (ingr_name, qty, price, unit) values ('All purpose flour', 0.25, 60, 'kg');
+insert into `MughlaiParatha` (ingr_name, qty, price, unit) values ('Ghee', 50, 1, 'gm');
+insert into `MughlaiParatha` (ingr_name, qty, price, unit) values ('Eggs', 4, 8, 'pcs');
+insert into `MughlaiParatha` (ingr_name, qty, price, unit) values ('Salt', 0.05, 20, 'kg');
+insert into `MughlaiParatha` (ingr_name, qty, price, unit) values ('Onion', 0.25, 40, 'kg');
+insert into `MughlaiParatha` (ingr_name, qty, price, unit) values ('Green Chilies', 25, 0.2, 'gm');
+insert into `MughlaiParatha` (ingr_name, qty, price, unit) values ('Coriander Leaves', 25, 0.5, 'gm');
+insert into `MughlaiParatha` (ingr_name, qty, price, unit) values ('Yogurt (curd)', 100, 0.2, 'gm');
+

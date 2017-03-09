@@ -1,0 +1,26 @@
+Step 1
+
+Heat oil in a deep pan. Add onion, garlic, celery and ginger and sauté for a minute. Add bamboo shoot and stir. Add French beans, carrot, bean sprouts, cabbage and mix.
+
+Step 2
+
+Add mushrooms and continue to sauté. Add dark soy sauce, green chilli sauce and vegetable stock.
+
+Step 3
+
+Mix and add green capsicum, salt, sugar and mix. Add white pepper powder and mix. Add cornflour mixed in a little water and cook till the soup thickens slightly
+
+Step 4
+
+Add vinegar and stir. Pour into individual soup bowls. Garnish with spring onion greens, drizzle a little chilli oil and serve piping hot.
+
+
+create table `HotnSourSoup_dir` (process VARCHAR(500), time INTEGER(10));
+
+insert into `HotnSourSoup_dir` (process, time) values ('Heat oil in a deep pan. Add onion, garlic, celery and ginger and sauté for a minute.', 120000);
+insert into `HotnSourSoup_dir` (process, time) values ('Add bamboo shoot and stir. Add French beans, carrot, bean sprouts, cabbage and mix.', 0);
+insert into `HotnSourSoup_dir` (process, time) values ('Add mushrooms and continue to sauté.', 120000);
+insert into `HotnSourSoup_dir` (process, time) values ('Add dark soy sauce, green chilli sauce and vegetable stock.', 0);
+insert into `HotnSourSoup_dir` (process, time) values ('Mix and add green capsicum, salt, sugar and mix. Add white pepper powder and mix. Add cornflour mixed in a little water and cook till the soup thickens slightly',0);
+insert into `HotnSourSoup_dir` (process, time) values ('Add vinegar and stir. Pour into individual soup bowls. Garnish with spring onion greens, drizzle a little chilli oil and serve piping hot.',0);
+ 

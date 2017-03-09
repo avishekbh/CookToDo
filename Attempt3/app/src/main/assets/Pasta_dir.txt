@@ -1,0 +1,9 @@
+create table `Pasta_dir` (process VARCHAR(500), time INTEGER(10));
+
+insert into `Pasta_dir` (process, time) values ('Cook pasta in lots of salted water as per package directions. Drain it and set aside.', 0);
+insert into `Pasta_dir` (process, time) values ('Now heat oil in a kadai. Add in mustard seeds, garlic and curry leaves. Let them sizzle for a min.', 90000);
+insert into `Pasta_dir` (process, time) values ('Add in onions and saute for a min.', 90000);
+insert into `Pasta_dir` (process, time) values ('Now add in all veggies and saute for a min.', 60000);
+insert into `Pasta_dir` (process, time) values ('Add in all spice powder and mix well. Add in tomato puree , salt and sugar. Add in 1 cup of water and cook till the veggies are cooked.', 300000);
+insert into `Pasta_dir` (process, time) values ('Now add in 1/4 cup more water and bring it to boil. Add in the cooked pasta and toss well. Let it cook and simmer for 5 mins or so, till the pasta absorbs the masala and all the masala gets stuck to the pasta.', 300000);
+insert into `Pasta_dir` (process, time) values ('Add in coriander leaves and mix well. Serve.', 0);

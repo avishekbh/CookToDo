@@ -1,0 +1,40 @@
+Paneer 1/2 inch cubes 250 grams
+Basmati Rice 1 1/2 cups
+Saffron (kesar) a few threads
+Oil for deep-frying
+Onions,sliced 2 medium
+Black cardamoms 3
+Bay leaves 2
+Cloves 3
+Cinnamon 2 one-inch
+Dry ginger powder (soonth) 1/2 teaspoon
+Fennel seeds (saunf) 1 teaspoon
+Asafoetida 1/4 teaspoon
+Salt to taste
+Ghee 3 tablespoons
+Cumin seeds 1 teaspoon
+Green cardamoms 3-4
+Raisins 10-12
+Cashewnuts halved 8
+
+
+create table `Kashmiri Pulav` (ingr_name VARCHAR(300), qty DECIMAL(5,3), price DECIMAL(5,3), unit VARCHAR(100));
+
+insert into `Kashmiri Pulav` (ingr_name, qty, price, unit) values ('Paneer', 0.4, 450 ,'kg');
+insert into `Kashmiri Pulav` (ingr_name, qty, price, unit) values ('Basmati Rice', 0.1, 200, 'kg');
+insert into `Kashmiri Pulav` (ingr_name, qty, price, unit) values ('Saffron', 1, 40, 'gm');
+insert into `Kashmiri Pulav` (ingr_name, qty, price, unit) values ('Oil', 0.1, 100, 'ltr');
+insert into `Kashmiri Pulav` (ingr_name, qty, price, unit) values ('Onion', 0.25, 40, 'kg');
+insert into `Kashmiri Pulav` (ingr_name, qty, price, unit) values ('Black Cardamoms', 2, 5, 'pcs');
+insert into `Kashmiri Pulav` (ingr_name, qty, price, unit) values ('Bay Leaf', 5, 1, 'pcs');
+insert into `Kashmiri Pulav` (ingr_name, qty, price, unit) values ('Cloves', 5, 1, 'pcs');
+insert into `Kashmiri Pulav` (ingr_name, qty, price, unit) values ('Cinnamon Stick', 2, 5, 'stick');
+insert into `Kashmiri Pulav` (ingr_name, qty, price, unit) values ('Ginger Powder', 25, 2, 'gm');
+insert into `Kashmiri Pulav` (ingr_name, qty, price, unit) values ('Fennel seeds', 25, 0.2, 'gm');
+insert into `Kashmiri Pulav` (ingr_name, qty, price, unit) values ('Asafoetida', 25, 0.3, 'gm');
+insert into `Kashmiri Pulav` (ingr_name, qty, price, unit) values ('Salt', 0.05, 20, 'kg');
+insert into `Kashmiri Pulav` (ingr_name, qty, price, unit) values ('Ghee', 50, 1, 'gm');
+insert into `Kashmiri Pulav` (ingr_name, qty, price, unit) values ('Cumin seeds', 50, 1, 'gm');
+insert into `Kashmiri Pulav` (ingr_name, qty, price, unit) values ('Green Cardmom', 5, 1, 'pcs');
+insert into `Kashmiri Pulav` (ingr_name, qty, price, unit) values ('Cashewnuts', 50, 2, 'gm');
+insert into `Kashmiri Pulav` (ingr_name, qty, price, unit) values ('Raisin', 50, 0.2, 'gm');

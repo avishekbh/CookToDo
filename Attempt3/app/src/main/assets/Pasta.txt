@@ -1,0 +1,19 @@
+create table `Pasta` (ingr_name VARCHAR(300), qty DECIMAL(10,3), price DECIMAL(10,3), unit VARCHAR(100));
+
+insert into `Pasta` (ingr_name, qty, price, unit) values ('Pasta', 0.2, 150, 'kg');
+insert into `Pasta` (ingr_name, qty, price, unit) values ('Onion', 0.1, 40, 'kg');
+insert into `Pasta` (ingr_name, qty, price, unit) values ('Garlic', 25, 0.2, 'gm');
+insert into `Pasta` (ingr_name, qty, price, unit) values ('Curry Leaves', 10, 0.1, 'pcs');
+insert into `Pasta` (ingr_name, qty, price, unit) values ('Mustard Seeds', 25, 0.2, 'gm');
+insert into `Pasta` (ingr_name, qty, price, unit) values ('Carrot', 0.1, 40, 'kg');
+insert into `Pasta` (ingr_name, qty, price, unit) values ('Beans', 0.1, 20, 'kg');
+insert into `Pasta` (ingr_name, qty, price, unit) values ('Cauliflower', 0.1, 40, 'kg');
+insert into `Pasta` (ingr_name, qty, price, unit) values ('Tomato', 0.1, 60, 'kg');
+insert into `Pasta` (ingr_name, qty, price, unit) values ('Red Chilli Powder', 20, 1, 'gm');
+insert into `Pasta` (ingr_name, qty, price, unit) values ('Coriander Powder', 10, 1, 'gm');
+insert into `Pasta` (ingr_name, qty, price, unit) values ('Cumin Powder', 10, 3, 'gm');
+insert into `Pasta` (ingr_name, qty, price, unit) values ('Garam Masala Powder', 10, 3, 'gm');
+insert into `Pasta` (ingr_name, qty, price, unit) values ('Salt', 50, 0.02, 'gm');
+insert into `Pasta` (ingr_name, qty, price, unit) values ('Sugar', 0.05, 45, 'kg');
+insert into `Pasta` (ingr_name, qty, price, unit) values ('Coriander Leaves', 25, 0.5, 'gm');
+insert into `Pasta` (ingr_name, qty, price, unit) values ('Oil', 100, 0.2, 'ml');

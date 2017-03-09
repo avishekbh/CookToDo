@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.prateep.attempt3">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <uses-feature
+        android:name="android.hardware.telephony"
+        android:required="false" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/cook"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="Cook-To-Do"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Authentication"
+            android:label="Authentication"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity_lunch"
+            android:label="Recipe List"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity_tableIngredients"
+            android:label="Ingredients"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity_ingredients"
+            android:label="Buy Ingredients"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity_directions"
+            android:label="Overview"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity_navigator"
+            android:label="Navigation"
+            android:screenOrientation="portrait" />
+        <activity android:name=".activity_payment"
+            android:label="Payment"
+
+            />
+
+    </application>
+
+</manifest>

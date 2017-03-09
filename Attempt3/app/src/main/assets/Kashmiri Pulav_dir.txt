@@ -1,0 +1,7 @@
+create table `Kashmiri Pulav_dir` (process VARCHAR(500), time INTEGER(10));
+
+insert into `Kashmiri Pulav_dir` (process, time) values ("Soak rice in three cups of water for half an hour. Drain. Soak saffron in two teaspoons of water. Heat oil in a kadai and deep-fry the onions till golden and crisp. Drain on absorbent paper.", 0);
+insert into `Kashmiri Pulav_dir` (process, time) values ("Bring four-and-a-half cups of water, black cardamoms, bay leaves, cloves, cinnamon, dry ginger powder, fennel seeds, asafoetida and salt to a boil. Lower heat and simmer for fifteen to twenty minutes or till reduced to three cups of stock. Remove from heat and strain the stock.", 0);
+insert into `Kashmiri Pulav_dir` (process, time) values ("Discard the spices. Heat ghee in a deep pan; add cumin seeds and cardamoms. When the cumin seeds change colour, add soaked rice and the stock. Bring to a boil, lower heat, cover and cook till the rice is almost done.", 0);
+insert into `Kashmiri Pulav_dir` (process, time) values ("Gently stir in the paneer cubes, raisins and cashew nuts. Sprinkle soaked saffron and fried onions over the rice. Cook on dum for another eight to ten minutes.", 600000);
+insert into `Kashmiri Pulav_dir` (process, time) values ("Serve hot.", 0);

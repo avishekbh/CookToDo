@@ -1,0 +1,48 @@
+French Beans chopped 4-6
+Carrots grated 1/2 medium
+Bamboo shoots chopped 1 medium
+Bean sprouts 1/4 cup
+Cabbage shredded 1/4 small
+Button mushrooms chopped 2 medium
+Green capsicum chopped 1/2 medium
+Oil 2 tablespoons
+Onion chopped 1 small
+Garlic chopped 2-3 cloves
+Celery chopped 2 inch stalk
+Ginger grated 1 inch piece
+Dark soy sauce 2 tablespoons
+Green chilli sauce 2 tablespoons
+Vegetable stock 4-5 cups
+Salt to taste
+Sugar 1/2 teaspoon
+White pepper powder 1/2 teaspoon
+Cornflour/ corn starch 3 teaspoons
+Vinegar 2 tablespoons
+Spring onion greens finely chopped 1 stalk
+Chilli oil 1 tablespoon
+
+
+create table `HotnSourSoup` (ingr_name VARCHAR(300), qty DECIMAL(10,3), price DECIMAL(10,3), unit VARCHAR(100));
+
+insert into `HotnSourSoup` (ingr_name, qty, price, unit) values ('French Beans', 0.1, 30, 'kg');
+insert into `HotnSourSoup` (ingr_name, qty, price, unit) values ('Carrot', 0.1, 40, 'kg');
+insert into `HotnSourSoup` (ingr_name, qty, price, unit) values ('Bamboo Shots', 1, 10, 'pcs');
+insert into `HotnSourSoup` (ingr_name, qty, price, unit) values ('Bean Sprouts', 100, 0.2, 'gm');
+insert into `HotnSourSoup` (ingr_name, qty, price, unit) values ('Cabbage', 0.1, 50, 'kg');
+insert into `HotnSourSoup` (ingr_name, qty, price, unit) values ('Button Mushroom', 0.1, 80, 'kg');
+insert into `HotnSourSoup` (ingr_name, qty, price, unit) values ('Capsicum', 0.1, 70, 'kg');
+insert into `HotnSourSoup` (ingr_name, qty, price, unit) values ('Olive Oil', 50, 0.5, 'ml');
+insert into `HotnSourSoup` (ingr_name, qty, price, unit) values ('Onion', 0.25, 40, 'kg');
+insert into `HotnSourSoup` (ingr_name, qty, price, unit) values ('Garlic', 30, 0.2, 'gm');
+insert into `HotnSourSoup` (ingr_name, qty, price, unit) values ('Celery', 50, 0.5, 'gm');
+insert into `HotnSourSoup` (ingr_name, qty, price, unit) values ('Ginger', 25, 0.2, 'gm');
+insert into `HotnSourSoup` (ingr_name, qty, price, unit) values ('Dark Soya Sauce', 50, 0.4, 'ml');
+insert into `HotnSourSoup` (ingr_name, qty, price, unit) values ('Green Chilli Sauce', 50, 0.4, 'ml');
+insert into `HotnSourSoup` (ingr_name, qty, price, unit) values ('Vegetable Stock', 200, 0.1, 'ml');
+insert into `HotnSourSoup` (ingr_name, qty, price, unit) values ('Salt', 0.05, 20, 'kg');
+insert into `HotnSourSoup` (ingr_name, qty, price, unit) values ('Sugar', 0.05, 45, 'kg');
+insert into `HotnSourSoup` (ingr_name, qty, price, unit) values ('White Pepper Powder', 25, 0.4, 'gm');
+insert into `HotnSourSoup` (ingr_name, qty, price, unit) values ('CornFluor', 0.25, 80, 'kg');
+insert into `HotnSourSoup` (ingr_name, qty, price, unit) values ('Vinegar', 20, 0.6, 'ml');
+insert into `HotnSourSoup` (ingr_name, qty, price, unit) values ('Spring Onions', 0.2, 40, 'kg');
+insert into `HotnSourSoup` (ingr_name, qty, price, unit) values ('Chilli Oil', 20, 0.5, 'ml');

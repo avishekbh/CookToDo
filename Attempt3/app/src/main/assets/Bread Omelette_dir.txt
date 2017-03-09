@@ -1,0 +1,27 @@
+
+    
+    
+    
+   
+    
+    
+    
+    
+    
+    
+    
+    
+create table `BreadOmelette_dir` (process VARCHAR(500), time INTEGER(10));
+
+insert into `BreadOmelette_dir` (process, time) values ('Firstly, in a bowl, beat the eggs and add into it.', 0);
+insert into `BreadOmelette_dir` (process, time) values ('Into it, add salt as per taste, red chilli powder, turmeric powder and black pepper powder.', 0);
+insert into `BreadOmelette_dir` (process, time) values ('Stir the mixture well.', 0);
+insert into `BreadOmelette_dir` (process, time) values ('Heat the tawa/gridle and put it on low flame.', 120000);
+insert into `BreadOmelette_dir` (process, time) values ('Over the gridle add oil/ghee/butter and heat it.', 0);
+insert into `BreadOmelette_dir` (process, time) values ('Add the omelette mixture and spread it well.', 0);
+insert into `BreadOmelette_dir` (process, time) values ('Take a bread slice and dip it on the omelette mixture and flip the bread and rest it on the omelette.', 180000);
+insert into `BreadOmelette_dir` (process, time) values ('Doing this way coats the bread with omelette on both the sides.', 0);
+insert into `BreadOmelette_dir` (process, time) values ('Similarly, dip the other bread slices on the omelette and flip the bread and rest them on the omelet.', 0);
+insert into `BreadOmelette_dir` (process, time) values ('Cook the bread omelet perfectly on both the sides on medium flame.', 120000);
+insert into `BreadOmelette_dir` (process, time) values ('Remove the bread omelette from the tawa and cut the bread slices diagonally.', 0);
+insert into `BreadOmelette_dir` (process, time) values ('Cut them and serve hot with ketchup!!!', 0);

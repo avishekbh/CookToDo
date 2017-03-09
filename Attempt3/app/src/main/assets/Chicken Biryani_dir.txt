@@ -1,0 +1,18 @@
+
+CREATE TABLE `ChickenBiryani_dir` (process VARCHAR(500), time INTEGER(10));
+insert into `ChickenBiryani_dir` (process, time) values ("First make a fine paste of all the ingredients under the Grind to paste using a tablespoon of water.", 0);
+insert into `ChickenBiryani_dir` (process, time) values ("Mix tomato puree, yogurt, green paste made earlier, red chilli powder, turmeric powder, roasted cumin powder, garam masala, coriander powder and salt. Stir well.", 0);
+insert into `ChickenBiryani_dir` (process, time) values ("Marinate the chicken with this mixture and keep aside for 3-4 hours in refrigerator.", 10800000);
+insert into `ChickenBiryani_dir` (process, time) values ("Heat oil in a pan. Fry the onions until golden brown.", 600000);
+insert into `ChickenBiryani_dir` (process, time) values ("In a small bowl take the warm milk and soak the saffron in it and keep aside.", 0);
+insert into `ChickenBiryani_dir` (process, time) values ("Add the marinated chicken and cook for 10 minutes. Stir occasionally.", 600000);
+insert into `ChickenBiryani_dir` (process, time) values ("Now add the beaten curd and chopped tomato and cook further till the oil separates.", 0);
+insert into `ChickenBiryani_dir` (process, time) values ("Check the salt at this stage as later you cannot add the salt.", 0);
+insert into `ChickenBiryani_dir` (process, time) values ("Now add the rice and mix well with soft hand as not to break the rice grains.", 0);
+insert into `ChickenBiryani_dir` (process, time) values ("Add 4 cups of water to the rice. Mix saffron in milk and add to it.", 0);
+insert into `ChickenBiryani_dir` (process, time) values ("Cover the lid and cook on low flame till the rice is done.", 3600000);
+insert into `ChickenBiryani_dir` (process, time) values ("Take it out on a rice platter.", 0);
+insert into `ChickenBiryani_dir` (process, time) values ("Garnish with green coriander and mint leaves and serve hot.", 0);
+
+
+

@@ -1,0 +1,38 @@
+Potatoes boiled and mashed 5-6
+French beans blanched and chopped 5-6
+Beetroot grated 1 medium
+Green peas blanched and crushed 1/2 cup
+Oil 2 tablespo to shallow fry
+Cumin seeds 1/2 teaspoon
+Ginger finely chopped 1 inch piece
+Onion finely chopped 1 medium
+Green chillies finely chopped 1-2
+Red chilli powder 1 teaspoon
+Turmeric powder 1/4 teaspoon
+Salt to taste
+Cashewnuts crushed 10
+Refined flour (maida) 2 tablespoons
+Fresh coriander leaves chopped 2 tablespoons
+Lemon juice 1 tablespoon
+Bread crumbs 1 cup
+
+create table `VegCutlet` (ingr_name VARCHAR(300), qty DECIMAL(5,3), price DECIMAL(5,3), unit VARCHAR(100));
+
+insert into `VegCutlet` (ingr_name, qty, price, unit) values ('Potato', 0.1, 20, 'kg');
+insert into `VegCutlet` (ingr_name, qty, price, unit) values ('French beans', 0.25, 60, 'kg');
+insert into `VegCutlet` (ingr_name, qty, price, unit) values ('Beetroot', 0.1, 40, 'kg');
+insert into `VegCutlet` (ingr_name, qty, price, unit) values ('Green peas', 0.2, 60, 'kg');
+insert into `VegCutlet` (ingr_name, qty, price, unit) values ('Oil', 250, 0.2, 'ml');
+insert into `VegCutlet` (ingr_name, qty, price, unit) values ('Cumin seeds', 50, 1, 'gm');
+insert into `VegCutlet` (ingr_name, qty, price, unit) values ('Green Chilies', 25, 0.2, 'gm');
+insert into `VegCutlet` (ingr_name, qty, price, unit) values ('Ginger', 25, 0.2, 'gm');
+insert into `VegCutlet` (ingr_name, qty, price, unit) values ('Onion', 0.25, 40, 'kg');
+insert into `VegCutlet` (ingr_name, qty, price, unit) values ('Red Chilli Powder', 10, 1, 'gm');
+insert into `VegCutlet` (ingr_name, qty, price, unit) values ('Turmeric Powder', 10, 2, 'gm');
+insert into `VegCutlet` (ingr_name, qty, price, unit) values ('Salt', 0.05, 20, 'kg');
+insert into `VegCutlet` (ingr_name, qty, price, unit) values ('Cashewnuts', 50, 2, 'gm');
+insert into `VegCutlet` (ingr_name, qty, price, unit) values ('Refined flour (maida)', 0.25, 40, 'kg');
+insert into `VegCutlet` (ingr_name, qty, price, unit) values ('Lemon', 2, 5, 'pcs');
+insert into `VegCutlet` (ingr_name, qty, price, unit) values ('Coriander Leaves', 25, 0.5, 'gm');
+insert into `VegCutlet` (ingr_name, qty, price, unit) values ('Bread', 1, 30, 'pkt');
+

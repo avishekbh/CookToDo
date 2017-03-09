@@ -1,0 +1,25 @@
+Step 1 
+Cut the paneer into half inch wide and one inch long pieces. Boil the onions in quarter cup of water. Drain and allow to cool. Grind to a fine paste.
+
+Step 2 
+Heat the oil in a non-stick pan. Add the cloves, peppercorns, cinnamon and bay leaf and sauté till fragrant.
+
+Step 3 
+Add the green chillies and boiled onion paste and sauté for three to four minutes on low heat so it does not get coloured. Add the ginger paste and garlic paste and continue to sauté for half a minute.
+
+Step 4 
+Add the cashewnut paste and sauté for another two minutes. Add the yogurt and sauté till the water from the yogurt gets absorbed.
+
+Step 5 
+Stir in the cream, saffron and garam masala powder and salt to taste. Add the paneer and stir gently to mix. Sprinkle green cardamom powder and serve hot.
+
+
+create table `Shahi Paneer_dir` (process VARCHAR(500), time INTEGER(10));
+
+insert into `Shahi Paneer_dir` (process, time) values ('Cut the paneer into half inch wide and one inch long pieces. Boil the onions in quarter cup of water. Drain and allow to cool. Grind to a fine paste.', 0);
+insert into `Shahi Paneer_dir` (process, time) values ('Heat the oil in a non-stick pan. Add the cloves, peppercorns, cinnamon and bay leaf and sauté till fragrant.', 120000);
+insert into `Shahi Paneer_dir` (process, time) values ('Add the green chillies and boiled onion paste and sauté for three to four minutes on low heat so it does not get coloured.', 300000);
+insert into `Shahi Paneer_dir` (process, time) values ('Add the ginger paste and garlic paste and continue to sauté for half a minute.', 30000);
+insert into `Shahi Paneer_dir` (process, time) values ('Add the cashewnut paste and sauté for another two minutes.', 120000);
+insert into `Shahi Paneer_dir` (process, time) values ('Add the yogurt and sauté till the water from the yogurt gets absorbed.', 0);
+insert into `Shahi Paneer_dir` (process, time) values ('Stir in the cream, saffron and garam masala powder and salt to taste. Add the paneer and stir gently to mix. Sprinkle green cardamom powder and serve hot.', 0);

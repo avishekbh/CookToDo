@@ -1,0 +1,46 @@
+1 kg - Mutton
+4 large onions, thinly sliced
+4 large tomatoes, blanched, skin removed and pureed
+3 tbsp - ginger-garlic paste
+1 cup - Yoghurt
+100 gms - fried Cashew nuts (made into a paste with a little water)
+1 tbsp - coriander powder
+1 tbsp - Kashmiri Red Chilli powder
+1 tbsp - cumin powder
+1 tbsp - Garam Masala powder
+1 tsp - Cinnamon
+1.5 cup - oil
+Salt to taste
+Whole Garam Masala :
+8 peppercorns
+5 black Cardamoms
+3 green Cardamoms
+2.5 stick - Cinnamon
+5 Cloves
+5 Bay Leaves
+1/2 tsp - Mace
+
+
+create table `Mutton Rogan Josh` (ingr_name VARCHAR(300), qty decimal(10,3), price decimal(10,3), unit VARCHAR(100));
+
+insert into `Mutton Rogan Josh` (ingr_name, qty, price, unit) values ('Mutton', 1, 400, 'kg');
+insert into `Mutton Rogan Josh` (ingr_name, qty, price, unit) values ('Onion', 0.25, 40, 'kg');
+insert into `Mutton Rogan Josh` (ingr_name, qty, price, unit) values ('Tomato', 0.25, 60, 'kg');
+insert into `Mutton Rogan Josh` (ingr_name, qty, price, unit) values ('Ginger Paste', 1, 10, 'pkt');
+insert into `Mutton Rogan Josh` (ingr_name, qty, price, unit) values ('Garlic Paste', 1, 10, 'pkt');
+insert into `Mutton Rogan Josh` (ingr_name, qty, price, unit) values ('Yogurt (curd)', 100, 0.2, 'gm' );
+insert into `Mutton Rogan Josh` (ingr_name, qty, price, unit) values ('Cashewnuts', 100, 2, 'gm');
+insert into `Mutton Rogan Josh` (ingr_name, qty, price, unit) values ('Coriander Powder', 10, 1, 'gm');
+insert into `Mutton Rogan Josh` (ingr_name, qty, price, unit) values ('Kashmiri Red Chilli Powder', 20, 1, 'gm');
+insert into `Mutton Rogan Josh` (ingr_name, qty, price, unit) values ('Roasted Cumin Powder', 10, 4, 'gm');
+insert into `Mutton Rogan Josh` (ingr_name, qty, price, unit) values ('Garam Masala Powder', 10, 3, 'gm');
+insert into `Mutton Rogan Josh` (ingr_name, qty, price, unit) values ('Cinnamon Stick', 3, 5, 'stick');
+insert into `Mutton Rogan Josh` (ingr_name, qty, price, unit) values ('Oil', 0.25, 100, 'ltr');
+insert into `Mutton Rogan Josh` (ingr_name, qty, price, unit) values ('Salt', 50, 0.02, 'gm');
+insert into `Mutton Rogan Josh` (ingr_name, qty, price, unit) values ('Whole Garam Masala', 25, 3, 'gm');
+insert into `Mutton Rogan Josh` (ingr_name, qty, price, unit) values ('Pepperconrns', 5, 1, 'pcs');
+insert into `Mutton Rogan Josh` (ingr_name, qty, price, unit) values ('Black Cardmoms', 5, 1, 'pcs');
+insert into `Mutton Rogan Josh` (ingr_name, qty, price, unit) values ('Green Cardmoms', 5, 1, 'pcs');
+insert into `Mutton Rogan Josh` (ingr_name, qty, price, unit) values ('Clove', 5, 1, 'pcs');
+insert into `Mutton Rogan Josh` (ingr_name, qty, price, unit) values ('Bay Leaves', 5, 1, 'pcs');
+insert into `Mutton Rogan Josh` (ingr_name, qty, price, unit) values ('Mace', 10, 1, 'gm');

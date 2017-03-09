@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:id="@+id/layout_courses"
+    android:layout_height="match_parent">
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="107dp"
+        android:id="@+id/lstview1" />
+
+    <Button
+        android:text="Button"
+        android:layout_width="164dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/bt1" />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="108dp"
+        android:id="@+id/lstview2" />
+
+    <Button
+        android:text="Button"
+        android:layout_width="164dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/bt2" />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="101dp"
+        android:id="@+id/lstview3" />
+
+    <Button
+        android:text="Button"
+        android:layout_width="161dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/bt3" />
+
+    <SearchView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/srchvw1" />
+
+</LinearLayout>

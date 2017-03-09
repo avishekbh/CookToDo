@@ -1,0 +1,20 @@
+
+4-5 bread slices
+3-4 tbsp oil/butter/ghee
+
+4 eggs
+salt - to taste
+1 tsp red chilli powder
+0.5 tsp turmeric powder
+0.5 tsp black pepper powder
+
+create table `BreadOmelette` (ingr_name VARCHAR(300), qty decimal(10,3), price decimal(10,3), unit VARCHAR(100));
+
+insert into `BreadOmelette` (ingr_name, qty, price, unit) values ('Bread slices', 4, 5, 'pcs');
+insert into `BreadOmelette` (ingr_name, qty, price, unit) values ('Butter', 50, 0.5, 'gm');
+insert into `BreadOmelette` (ingr_name, qty, price, unit) values ('Eggs', 4, 8, 'pcs');
+insert into `BreadOmelette` (ingr_name, qty, price, unit) values ('Salt', 0.05, 20, 'kg');
+insert into `BreadOmelette` (ingr_name, qty, price, unit) values ('Red Chilli Powder', 10, 1, 'gm');
+insert into `BreadOmelette` (ingr_name, qty, price, unit) values ('Turmeric Powder', 10, 2, 'gm');
+insert into `BreadOmelette` (ingr_name, qty, price, unit) values ('Black pepper powder', 10, 3, 'gm');
+

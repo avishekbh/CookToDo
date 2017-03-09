@@ -1,0 +1,35 @@
+1 Pizza Base
+1/4 cup chopped eggplant/ brinjal
+1/4 cup chopped carrot
+1/2 cup chopped spinach
+1/2 cup Pizza sauce
+1 teaspoon garam masala powder
+1 teaspoon minced garlic
+1 handful grated cheese- goat cheese
+1 cup chopped cauliflower
+1/4 cup chopped onion
+1/4 cup sliced capsicum ( green pepper)
+1 medium finely chopped tomato
+2 teaspoon lemon juice
+1/4 teaspoon chaat masala powder
+1/2 teaspoon virgin olive oil
+1 handful chopped black olives
+
+create table `VegPizza` (ingr_name VARCHAR(300), qty DECIMAL(10,3), price DECIMAL(10,3), unit VARCHAR(100));
+insert into `VegPizza` (ingr_name, qty, price, unit) values ('Pizza Base', 1, 40, 'pcs');
+insert into `VegPizza` (ingr_name, qty, price, unit) values ('Brinjal', 0.1, 50, 'kg');
+insert into `VegPizza` (ingr_name, qty, price, unit) values ('Carrot', 0.1, 40, 'kg');
+insert into `VegPizza` (ingr_name, qty, price, unit) values ('Spinach', 0.1, 40, 'kg');
+insert into `VegPizza` (ingr_name, qty, price, unit) values ('Pizza Sauce', 0.1, 150, 'ltr');
+insert into `VegPizza` (ingr_name, qty, price, unit) values ('Garam Masala Powder', 10, 3, 'gm');
+insert into `VegPizza` (ingr_name, qty, price, unit) values ('Garlic', 50, 0.2, 'gm');
+insert into `VegPizza` (ingr_name, qty, price, unit) values ('Grated Cheese', 100, 0.5, 'gm');
+insert into `VegPizza` (ingr_name, qty, price, unit) values ('Cauliflower', 0.1, 40, 'kg');
+insert into `VegPizza` (ingr_name, qty, price, unit) values ('Onion', 0.25, 40, 'kg');
+insert into `VegPizza` (ingr_name, qty, price, unit) values ('Capsicum', 0.1, 70, 'kg');
+insert into `VegPizza` (ingr_name, qty, price, unit) values ('Tomato', 0.25, 60, 'kg');
+insert into `VegPizza` (ingr_name, qty, price, unit) values ('Lemon', 2, 5, 'pcs');
+insert into `VegPizza` (ingr_name, qty, price, unit) values ('Chaat Masala Powder', 1, 25, 'pkt');
+insert into `VegPizza` (ingr_name, qty, price, unit) values ('Olive Oil', 50, 0.5, 'ml');
+insert into `VegPizza` (ingr_name, qty, price, unit) values ('Black Olives', 100, 0.5, 'gm');
+

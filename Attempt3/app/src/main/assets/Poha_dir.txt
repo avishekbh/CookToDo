@@ -1,0 +1,10 @@
+
+create table `Poha_dir` (process VARCHAR(500), time INTEGER(10));
+
+insert into `Poha_dir` (process, time) values ('Wash the poha in a colander. Poha should be moist but not mashed. Add salt and sugar and mix lightly.', 0);
+insert into `Poha_dir` (process, time) values ('Heat oil in a non-stick pan. Add mustard seeds and when they splutter add asafoetida and curry leaves.', 180000);
+insert into `Poha_dir` (process, time) values ('Sauté for half a minute and add onions and continue to sauté.', 150000);
+insert into `Poha_dir` (process, time) values ('Add green chillies and mix. Add turmeric powder and mix.', 0);
+insert into `Poha_dir` (process, time) values ('Sauté for two minutes and add potato and poha..', 120000);
+insert into `Poha_dir` (process, time) values ('Mix and cook till poha is heated through. Add lemon juice and mix lightly. Garnish with coriander leaves and serve hot.', 0);
+

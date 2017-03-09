@@ -1,0 +1,18 @@
+create table `ChickenButterMasala` (ingr_name VARCHAR(300), qty DECIMAL(10,3), price DECIMAL(10,3), unit VARCHAR(100));
+insert into `ChickenButterMasala` (ingr_name, qty, price, unit) values ('Oil', 250, 0.2, 'ml');
+insert into `ChickenButterMasala` (ingr_name, qty, price, unit) values ('Butter', 50, 0.5, 'gm');
+insert into `ChickenButterMasala` (ingr_name, qty, price, unit) values ('Onion', 0.25, 40, 'kg');
+insert into `ChickenButterMasala` (ingr_name, qty, price, unit) values ('Boneless Chicken Breasts', 0.25, 200, 'kg');
+insert into `ChickenButterMasala` (ingr_name, qty, price, unit) values ('Tomato', 0.25, 60, 'kg');
+insert into `ChickenButterMasala` (ingr_name, qty, price, unit) values ('Cream', 150, 0.5, 'gm');
+insert into `ChickenButterMasala` (ingr_name, qty, price, unit) values ('Coriander Leaves', 25, 0.5, 'gm');
+insert into `ChickenButterMasala` (ingr_name, qty, price, unit) values ('Yogurt (curd)', 150, 0.2, 'gm' );
+insert into `ChickenButterMasala` (ingr_name, qty, price, unit) values ('Mango Chutney', 25, 0.6, 'ml');
+insert into `ChickenButterMasala` (ingr_name, qty, price, unit) values ('Coriander Leaves', 25, 0.5, 'gm');
+insert into `ChickenButterMasala` (ingr_name, qty, price, unit) values ('Red Pepper', 25, 0.2, 'gm');
+insert into `ChickenButterMasala` (ingr_name, qty, price, unit) values ('Chicken Tikka Masala Paste', 1, 25, 'pkt');
+insert into `ChickenButterMasala` (ingr_name, qty, price, unit) values ('Salt', 0.05, 20, 'kg');
+
+
+
+

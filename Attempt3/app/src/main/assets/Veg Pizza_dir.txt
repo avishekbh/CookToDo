@@ -1,0 +1,28 @@
+Step 1
+
+Mix the pizza sauce, garlic, garam masala powder, chaat masala powder, turmeric powder and lemon juice.
+Step 2
+
+Heat a pan with oil in it over moderate flame. Saute cauliflower, brinjals, carrots and onions in the pan.
+Step 3
+
+Spread the sauce mixture on the pizza base and keep aside some sauce mixture for the topping.
+Step 4
+
+Top up the pizza base with vegetables and tomatoes. Drizzle the remaining sauce over the toppings.
+Step 5
+
+Bake the pizza in a preheated oven for 10 minutes or until the crust is golden brown and crisp.
+Step 6
+
+Once the pizza is done, take it out from the oven and serve the dish nicely sliced.
+
+
+create table `VegPizza_dir` (process VARCHAR(500), time INTEGER(10));
+
+insert into VegPizza_dir (process, time) values ('Mix the pizza sauce, garlic, garam masala powder, chaat masala powder, turmeric powder and lemon juice.', 0);
+insert into VegPizza_dir (process, time) values ('Heat a pan with oil in it over moderate flame. Saute cauliflower, brinjals, carrots and onions in the pan.', 300000);
+insert into VegPizza_dir (process, time) values ('Spread the sauce mixture on the pizza base and keep aside some sauce mixture for the topping.', 0);
+insert into VegPizza_dir (process, time) values ('Top up the pizza base with vegetables and tomatoes. Drizzle the remaining sauce over the toppings.', 0);
+insert into VegPizza_dir (process, time) values ('Bake the pizza in a preheated oven for 10 minutes or until the crust is golden brown and crisp.', 600000);
+insert into VegPizza_dir (process, time) values ('Once the pizza is done, take it out from the oven and serve the dish nicely sliced.',0);

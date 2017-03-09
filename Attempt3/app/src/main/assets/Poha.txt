@@ -1,0 +1,16 @@
+create table `Poha` (ingr_name VARCHAR(300), qty DECIMAL(10,3), price DECIMAL(10,3), unit VARCHAR(100));
+
+insert into `Poha` (ingr_name, qty, price, unit) values ('Pressed rice (poha) thick variety', 0.2, 50, 'kg');
+insert into `Poha` (ingr_name, qty, price, unit) values ('Onion', 0.25, 40, 'kg');
+insert into `Poha` (ingr_name, qty, price, unit) values ('Salt', 0.05, 20, 'kg');
+insert into `Poha` (ingr_name, qty, price, unit) values ('Sugar', 0.05, 45, 'kg');
+insert into `Poha` (ingr_name, qty, price, unit) values ('Oil', 100, 0.2, 'ml');
+insert into `Poha` (ingr_name, qty, price, unit) values ('Mustard Seeds', 25, 0.2, 'gm');
+insert into `Poha` (ingr_name, qty, price, unit) values ('Asafoetida', 25, 0.3, 'gm');
+insert into `Poha` (ingr_name, qty, price, unit) values ('Curry Leaves', 10, 0.1, 'pcs');
+insert into `Poha` (ingr_name, qty, price, unit) values ('Green Chillies', 25, 0.2, 'gm');
+insert into `Poha` (ingr_name, qty, price, unit) values ('Turmeric Powder', 1, 20, 'tbsp');
+insert into `Poha` (ingr_name, qty, price, unit) values ('Potato', 0.1, 20, 'kg');
+insert into `Poha` (ingr_name, qty, price, unit) values ('Lemon', 2, 5, 'pcs');
+insert into `Poha` (ingr_name, qty, price, unit) values ('Coriander Leaves', 25, 0.5, 'gm');
+

@@ -1,0 +1,52 @@
+Paneer (Cottage cheese) 400 grams
+Onion quartered 2 large
+Oil 2 tablespoons
+Cloves 3
+Black peppercorns 4-5
+Cinnamon 1 inch stick
+Bay leaf 1
+Green chillies slit 2
+Ginger paste 1 teaspoon
+Garlic paste 1 teaspoon
+Cashewnut paste 1/4 cup
+Yogurt 1/2 cup
+Cream 1/2 cup
+Saffron (kesar) a pinch
+Garam masala powder 1/2 teaspoon
+Salt to taste
+Green cardamom powder 1/4 teaspoon
+
+
+create table `ShahiPaneer` (ingr_name VARCHAR(300), qty DECIMAL(10,3), price DECIMAL(10,3), unit VARCHAR(100));
+
+insert into `ShahiPaneer` (ingr_name, qty, price, unit) values ('Paneer', 0.4, 450 ,'kg');
+insert into `ShahiPaneer` (ingr_name, qty, price, unit) values ('Onion', 0.25, 40, 'kg');
+insert into `ShahiPaneer` (ingr_name, qty, price, unit) values ('Oil', 0.25, 100, 'ltr');
+insert into `ShahiPaneer` (ingr_name, qty, price, unit) values ('Cloves', 5, 1, 'pcs');
+insert into `ShahiPaneer` (ingr_name, qty, price, unit) values ('Black Peppercorns', 5, 1, 'pcs');
+insert into `ShahiPaneer` (ingr_name, qty, price, unit) values ('Cinnamon Stick', 1, 5, 'stick');
+insert into `ShahiPaneer` (ingr_name, qty, price, unit) values ('Bay Leaf', 5, 1, 'pcs');
+insert into `ShahiPaneer` (ingr_name, qty, price, unit) values ('Green Chillies', 25, 0.2, 'gm');
+insert into `ShahiPaneer` (ingr_name, qty, price, unit) values ('Ginger Paste', 1, 10, 'pkt');
+insert into `ShahiPaneer` (ingr_name, qty, price, unit) values ('Garlic Paste', 1, 10, 'pkt');
+insert into `ShahiPaneer` (ingr_name, qty, price, unit) values ('Cashewnuts', 50, 2, 'gm');
+insert into `ShahiPaneer` (ingr_name, qty, price, unit) values ('Yogurt (curd)', 100, 0.2, 'gm' );
+insert into `ShahiPaneer` (ingr_name, qty, price, unit) values ('Cream', 100, 0.5, 'gm');
+insert into `ShahiPaneer` (ingr_name, qty, price, unit) values ('Saffron', 1, 40, 'gm');
+insert into `ShahiPaneer` (ingr_name, qty, price, unit) values ('Garam Masala Powder', 10, 3, 'gm');
+insert into `ShahiPaneer` (ingr_name, qty, price, unit) values ('Salt', 50, 0.02, 'gm');
+insert into `ShahiPaneer` (ingr_name, qty, price, unit) values ('Green Cardmom Powder', 10, 2, 'gm');
+
+
+
+
+
+
+
+
+
+
+
+
+
+

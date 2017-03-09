@@ -1,0 +1,11 @@
+
+
+create table `ChickenButterMasala_dir` (process VARCHAR(500), time INTEGER(10));
+
+insert into `ChickenButterMasala_dir` (process, time) values ('Heat the oil and butter in a large, lidded casserole on the hob, then add the onions and a pinch of salt. Cook for 15-20 mins until soft and golden.', 1200000);
+insert into `ChickenButterMasala_dir` (process, time) values ('Add the paste and peppers, then cook for 5 mins more to cook out the rawness of the spices.', 600000);
+insert into `ChickenButterMasala_dir` (process, time) values ('Add the chicken and stir well to coat in the paste. Cook for 2 mins.', 120000);
+insert into `ChickenButterMasala_dir` (process, time) values ('Tip in the tomatoes, purée and 200ml water. Cover with a lid and gently simmer for 15 mins, stirring occasionally, until the chicken is cooked through.', 900000);
+insert into `ChickenButterMasala_dir` (process, time) values ('Remove the lid, stir through the mango chutney, cream and yogurt, then gently warm through. Season, then set aside whatever you want to freeze.',0);
+insert into `ChickenButterMasala_dir` (process, time) values ('Scatter the rest with coriander leaves and serve with basmati rice and naan bread.', 0);
+

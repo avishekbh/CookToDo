@@ -1,0 +1,12 @@
+
+
+create table `Wrap_dir` (process VARCHAR(500), time INTEGER(10));
+
+insert into `Wrap_dir` (process, time) values ('Combine the ginger, chile, onion, cumin and 1/4 teaspoon salt in a mini food processor and pulse to make a thick paste. (Or finely chop and mash with the flat side of a knife.)', 0);
+insert into `Wrap_dir` (process, time) values ('Mix the yogurt, lime juice, cilantro and a pinch of salt in a bowl. Cover and chill until ready to use.', 0);
+insert into `Wrap_dir` (process, time) values ('Heat the vegetable oil in a large skillet over medium-high heat.', 120000);
+insert into `Wrap_dir` (process, time) values ('Add the ginger-chile paste and cook, stirring, until most of the liquid has evaporated and the mixture is slightly toasted, about 5 minutes.', 300000);
+insert into `Wrap_dir` (process, time) values ('Stir in the chicken, carrots, 1/4 teaspoon salt and 1/2 cup water and continue to cook, stirring, until the sauce is thick and the chicken is heated through, about 2 more minutes. Season with salt.', 120000);
+insert into `Wrap_dir` (process, time) values ('Spoon one-quarter of the chicken filling down the middle of each piece of bread. Drizzle with some of the yogurt sauce and roll up.', 0);
+insert into `Wrap_dir` (process, time) values ('Serve with chips.', 0);
+
